@@ -1,0 +1,11 @@
+# Include your custom_postgui HAL commands here
+# This file will not be overwritten when you run stepconf again
+
+net tool-1 halui.mdi-command-00 <= pyvcp.tool-1
+net tool-2 halui.mdi-command-01 <= pyvcp.tool-2
+net tool-3 halui.mdi-command-02 <= pyvcp.tool-3
+net tool-4 halui.mdi-command-03 <= pyvcp.tool-4
+net tool-5 halui.mdi-command-04 <= pyvcp.tool-5
+net tool-6 halui.mdi-command-05 <= pyvcp.tool-6
+net tool-7 halui.mdi-command-06 <= pyvcp.tool-7
+net tool-8 halui.mdi-command-07 <= pyvcp.tool-8

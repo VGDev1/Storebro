@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pyvcp>
+<labelframe text="Tool Changer">
+<font>("Helvetica",16)</font>
+    <hbox>
+      <button>
+      <halpin>"tool-1"</halpin>
+      <text>"3D Probe"</text>
+      <bd>3</bd>
+      </button>
+      <button>
+      <halpin>"tool-2"</halpin>
+      <text>"T2"</text>
+      <bd>3</bd>
+      </button>
+      <button>
+      <halpin>"tool-3"</halpin>
+      <text>"T3"</text>
+      <bd>3</bd>
+      </button>
+      <button>
+      <halpin>"tool-4"</halpin>
+      <text>"T4"</text>
+      <bd>3</bd>
+      </button>
+    </hbox>
+
+    <hbox>
+      <button>
+      <halpin>"tool-5"</halpin>
+      <text>"T5"</text>
+      <bd>3</bd>
+      </button>
+      <button>
+      <halpin>"tool-6"</halpin>
+      <text>"T6"</text>
+      <bd>3</bd>
+      </button>
+      <button>
+      <halpin>"tool-7"</halpin>
+      <text>"T7"</text>
+      <bd>3</bd>
+      </button>
+      <button>
+      <halpin>"tool-8"</halpin>
+      <text>"T8"</text>
+      <bd>3</bd>
+      </button>
+    </hbox>
+  </labelframe>
+</pyvcp>
